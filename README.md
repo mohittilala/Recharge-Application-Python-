@@ -24,7 +24,7 @@ It is reqired to install all this libraries to use this application.
 
 ## Getting Started
 
-First of you must have given user in MySQL server.
+First of all add given user to access your database in MySQL server.
 
 **username**: mohit
 
@@ -34,7 +34,7 @@ If you don't have this user then create one, else app can not access your databa
 
 Now, You need to execute queries.sql in MySQL server for first time only to create database and reqiured table to run this application.
 
-After a successful of execution of queries.sql, open main.py to run main interface.
+After successful execution of queries.sql, open main.py to run main interface.
 
 For admin login:
 
